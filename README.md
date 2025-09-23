@@ -43,8 +43,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshguarav&theme=radical" alt="harshguarav streak" />
+  <img src="https://streak-stats.demolab.com/?user=harshguarav&theme=radical" alt="GitHub Streak Stats"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshguarav&layout=compact&theme=radical" alt="Top Languages" />
