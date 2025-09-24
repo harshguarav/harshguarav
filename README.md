@@ -13,9 +13,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/harshkrjha567/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/harshajha89/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/harshajha89" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="CodeChef" height="30" width="40" />
+  <a href="https://www.codechef.com/users/your_username" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" height="30" width="40" />
 </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,18 +40,5 @@
 
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</p>
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshguarav&show_icons=true&theme=radical" alt="harshguarav stats" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshguarav&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshguarav&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
